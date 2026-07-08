@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto flex items-center justify-between px-8 md:px-24 py-4">
         {/* Brand/Logo */}
         <a href="#" className="text-xl font-bold tracking-tight text-slate-900 hover:text-indigo-600 transition-colors">
-          Prem<span className="text-indigo-600">.</span>
+          Prem Prasad<span className="text-indigo-600">.</span>
         </a>
 
         {/* Navigation Links */}
