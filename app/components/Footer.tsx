@@ -19,9 +19,9 @@ export default function Footer() {
             GitHub
           </a>
 
-          {/* X (Twitter) */}
+          {/* X (Twitter) - Yahan link update kar diya hai */}
           <a 
-            href="#" 
+            href="https://x.com/Prem_dev069" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="flex items-center gap-2 text-slate-600 hover:text-slate-900 hover:-translate-y-1 transition-all text-lg font-semibold"
